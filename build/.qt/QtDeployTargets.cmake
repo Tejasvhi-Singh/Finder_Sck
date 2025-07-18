@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_MacFileExplorer_FILE /Users/etsuko/Application/explorer/build/MacFileExplorer.app/Contents/MacOS/MacFileExplorer)
+set(__QT_DEPLOY_TARGET_MacFileExplorer_TYPE EXECUTABLE)

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Mac File Explorer</string>
+    <key>CFBundleDisplayName</key>
+    <string>Mac File Explorer</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.example.MacFileExplorer</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleExecutable</key>
+    <string>MacFileExplorer</string>
+    <key>CFBundleIconFile</key>
+    <string>app_icon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.15</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSRequiresAquaSystemAppearance</key>
+    <false/>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2024 Mac File Explorer. All rights reserved.</string>
+    <key>NSAppleScriptEnabled</key>
+    <true/>
+    <key>NSDocumentsFolderUsageDescription</key>
+    <string>This application needs access to Documents folder to browse and search files.</string>
+    <key>NSDesktopFolderUsageDescription</key>
+    <string>This application needs access to Desktop folder to browse and search files.</string>
+    <key>NSDownloadsFolderUsageDescription</key>
+    <string>This application needs access to Downloads folder to browse and search files.</string>
+    <key>NSRemovableVolumesUsageDescription</key>
+    <string>This application needs access to removable volumes to browse and search files.</string>
+    <key>NSNetworkVolumesUsageDescription</key>
+    <string>This application needs access to network volumes to browse and search files.</string>
+    <key>NSFullDiskAccessUsageDescription</key>
+    <string>This application needs full disk access to provide comprehensive file browsing and advanced search capabilities.</string>
+    <key>NSSystemAdministrationUsageDescription</key>
+    <string>This application needs system administration privileges for advanced file operations.</string>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Viewer</string>
+            <key>CFBundleTypeIconFile</key>
+            <string>document_icon</string>
+            <key>LSTypeIsPackage</key>
+            <false/>
+            <key>LSHandlerRank</key>
+            <string>Default</string>
+            <key>CFBundleTypeName</key>
+            <string>All Files</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>*</string>
+            </array>
+            <key>CFBundleTypeOSTypes</key>
+            <array>
+                <string>****</string>
+            </array>
+        </dict>
+    </array>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLName</key>
+            <string>File Explorer URL</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>macfileexplorer</string>
+            </array>
+        </dict>
+    </array>
+    <key>LSArchitecturePriority</key>
+    <array>
+        <string>arm64</string>
+        <string>x86_64</string>
+    </array>
+    <key>LSMultipleInstancesProhibited</key>
+    <false/>
+    <key>LSUIElement</key>
+    <false/>
+    <key>NSMainNibFile</key>
+    <string></string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+</dict>
+</plist> 

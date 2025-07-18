@@ -1,0 +1,5 @@
+/Users/etsuko/Application/explorer/build/CMakeFiles/MacFileExplorer.dir
+/Users/etsuko/Application/explorer/build/CMakeFiles/edit_cache.dir
+/Users/etsuko/Application/explorer/build/CMakeFiles/rebuild_cache.dir
+/Users/etsuko/Application/explorer/build/CMakeFiles/MacFileExplorer_autogen_timestamp_deps.dir
+/Users/etsuko/Application/explorer/build/CMakeFiles/MacFileExplorer_autogen.dir
